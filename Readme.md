@@ -1,4 +1,4 @@
-…or create a new repository on the command line
+### …or create a new repository on the command line
 ```
 echo "# taxi_bot" >> README.md
 git init
@@ -8,7 +8,7 @@ git branch -M main
 git remote add origin https://github.com/shoyimobloqulov/taxi_bot.git
 git push -u origin main
 ```
-…or push an existing repository from the command line
+### …or push an existing repository from the command line
 ```
 git remote add origin https://github.com/shoyimobloqulov/taxi_bot.git
 git branch -M main
